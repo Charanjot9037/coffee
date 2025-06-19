@@ -1,5 +1,5 @@
 [build]
-  publish = "coffee/page" # Replace "public" with the folder that contains your index.html
+  publish = "coffee" # Replace "public" with the folder that contains your index.html
 [[redirects]]
   from = "/*"
   to = "/index.html"
